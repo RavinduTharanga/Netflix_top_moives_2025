@@ -1,8 +1,4 @@
-Here’s a professional and detailed `README.md` for your GitHub repository. It showcases your web scraping script, highlights its functionality, and explains how to use it. This will make a great impression on interviewers!
-
----
-
-## Netflix Top 10 Scraper
+## Netflix Top 10 Scraper 2025
 
 ### Overview
 This Python script scrapes the Netflix Tudum website to extract the **Top 10 movies** along with their **view counts**. The data is then saved into a CSV file, making it easy to analyze or visualize Netflix's most-watched content.
@@ -105,12 +101,6 @@ Shrek the Third,3600000
 - Schedule the scraper to run periodically to track view trends.
 - Visualize the data using libraries like `Matplotlib` or `Seaborn`.
 
----
-
-### Author
-- **Your Name** - [LinkedIn](https://www.linkedin.com/in/your-profile)
-
----
 
 ### License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -122,11 +112,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Requests Documentation](https://docs.python-requests.org/en/latest/)
 - [Netflix Tudum](https://www.netflix.com/tudum/top10) for the movie data.
 
----
 
-This `README.md` not only explains your project clearly but also showcases your skills in:
-- Web scraping
-- Data processing
 - Clean and maintainable code
 - Documentation and communication
 

@@ -2,7 +2,6 @@ from bs4 import BeautifulSoup
 import requests
 import re
 import pandas as pd
-
 import csv
 
 # Downloading imdb top 250 movie's data
